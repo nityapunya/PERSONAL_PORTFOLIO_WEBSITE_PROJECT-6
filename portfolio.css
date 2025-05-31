@@ -9,3 +9,14 @@ header
     text-align: center;
     padding: 20px;
 }
+#profilepicture
+{
+    height: 150px;
+    width: 150px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    background-image: url('nityapunya.jpeg');
+    margin: 10px auto;
+    background-size: 100%;
+    background-position: 0px;
+}
