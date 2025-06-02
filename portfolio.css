@@ -20,3 +20,9 @@ header
     background-size: 100%;
     background-position: 0px;
 }
+section
+{
+    max-width: 50%;
+    padding: 20px;
+    margin: 20px auto;
+}
