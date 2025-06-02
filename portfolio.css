@@ -26,3 +26,8 @@ section
     padding: 20px;
     margin: 20px auto;
 }
+ul
+{
+    list-style-type: none;
+    padding: 0px;
+}
