@@ -35,3 +35,27 @@ ul
 {
     margin-bottom: 20px;
 }
+#academic table
+{
+    border: 1px solid #f1f1f1;
+    width: 100%;
+    border-collapse: collapse;
+}
+#academic table tr:nth-child(even)
+{
+    background-color: #f0f0f0;
+}
+#academic table th
+{
+    background-color: rgb(45, 81, 82);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#academic table td
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
